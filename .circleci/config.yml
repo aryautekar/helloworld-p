@@ -22,5 +22,5 @@ jobs:
 # See: https://circleci.com/docs/configuration-reference/#workflows
 workflows:
   say-hello-workflow:
-    jobs
+    jobs:
       - say-hello
